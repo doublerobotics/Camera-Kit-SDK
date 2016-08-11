@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>60F9AAF4-3338-4049-8107-2461FA50C32A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DoubleBasicHelloWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AB7F3B1AB3FAFF8E1FA2B73A6651E3754F6D5024</key>
+		<string>https://github.com/doublerobotics/iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DoubleBasicHelloWorld/DoubleBasicHelloWorld.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AB7F3B1AB3FAFF8E1FA2B73A6651E3754F6D5024</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/doublerobotics/iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AB7F3B1AB3FAFF8E1FA2B73A6651E3754F6D5024</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AB7F3B1AB3FAFF8E1FA2B73A6651E3754F6D5024</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
